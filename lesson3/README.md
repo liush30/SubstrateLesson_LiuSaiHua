@@ -1,3 +1,5 @@
-# 第三次作业声明：
+#第三次作业
 
-## 代码&运行截图于 lesson3 目录下
+## 代码请查看/src目录
+##运行截图如下：
+![image](https://github.com/liush30/SubstrateLesson_LiuSaiHua/blob/main/IMG/1.png)
